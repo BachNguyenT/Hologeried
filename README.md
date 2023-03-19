@@ -5,3 +5,4 @@
 - Data fetched from local JSON file
 - My first attempt on web development
 - Enjoy!
+Try it out here!!! -----> https://hologeried.vercel.app
