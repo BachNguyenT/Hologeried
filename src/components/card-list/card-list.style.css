@@ -22,9 +22,15 @@
 
 .watch-image{
   height: auto; 
-  width: 300px;
-  /* max-width: 250px; 
-  max-height: 250px; */
+  max-height: 255px;
+  /* width: 300px; */
+  margin-left:-25px;
+  margin-top:-25px;
+  margin-right: -25px;
+
+  border-radius:5px;
+
+  object-fit:cover; 
 }
 
 .card-container:hover {
